@@ -1,11 +1,11 @@
 # Heartbeat classification via CNN, multilayer perceptrons and focal loss
 1, Generating data by using R\
 \
-2, Analysis & modeling by using Python\
---- Python 3.11.11\
---- import doubleml\
---- import causalml\
+2, Modeling ECG data by using Python\
+--- Python 3.6.13\
+--- import keras\
+--- import tensorflow\
 \
 3, Reference\
-   https://docs.doubleml.org/stable/api/generated/doubleml.datasets.make_irm_data.html#doubleml-datasets-make-irm-data
-   https://github.com/uber/causalml/blob/master/causalml/inference/tf/dragonnet.py
+   https://pubmed.ncbi.nlm.nih.gov/33816974/
+   https://github.com/JackAndCole/Deep-Neural-Network-For-Heartbeat-Classification/tree/master
