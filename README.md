@@ -1,4 +1,4 @@
-# A hybrid method for heartbeat classification via convolutional neuralnetworks, multilayer perceptrons and focal loss
+# Heartbeat classification via CNN, multilayer perceptrons and focal loss
 1, Generating data by using R\
 \
 2, Analysis & modeling by using Python\
