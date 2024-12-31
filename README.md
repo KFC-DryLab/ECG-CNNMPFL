@@ -2,7 +2,8 @@
 1, Dataset\
 ---  ECG signal is sampled at 250 Hz\
 ---  There are 61885 heartbeats & normal:61470, others:415\
----  Data link\
+---  The file "main" is training result we do\
+---  If you want to using the model to predict new waves, please go to the file "predict newwave"\
 \
 2, Modeling ECG data by using Python\
 --- Python 3.6.13\
